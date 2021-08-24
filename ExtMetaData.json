@@ -1,0 +1,40 @@
+{
+    "info": {
+        "url_png_icon_64x64": "",
+        "url_png_logo": "",
+        "location": "The Hague, The Netherlands",
+        "social": {
+            "twitter_handle": "",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "The Hague, The Netherlands",
+            "country": "NL",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Single pool operater from Asia, living in The Netherlands, working for an American company. I´m happy to be part of the Cardano network and to support the community",
+            "server": "1 Blocknode and 1 Relay, The specs are i9-9900k with 128GB RAM, 2TB disk, 300Mbit internet firewalled. All hosted in the Office, all solar powered",
+            "company": "..."
+        }
+    },
+    "my-pool-ids": {
+        "0": "ffe9be54689e54f8c039f89a81c32f6789628d22b055588d6bd3c68e",
+        "1": ""
+    },
+    "when-satured-then-recommend": {
+        "0": "ffe9be54689e54f8c039f89a81c32f6789628d22b055588d6bd3c68e",
+        "1": ""
+    },
+    "telegram-admin-handle": {
+        "0": ""
+    }
+}
