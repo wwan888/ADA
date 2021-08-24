@@ -3,5 +3,5 @@
 "description": "European based, Dutch stakepool that strive for 24/7 uptime. Join us with our Cardano adventure and have fun" ,
 "ticker": "WAN",
 "homepage": "https://github.com/wwan888/ADA",
-"extended": "https://github.com/wwan888/ADA/raw/main/poolMetaData.json"
+"extended": "https://github.com/wwan888/ADA/raw/main/ExtMetaData.json"
 }
